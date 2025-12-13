@@ -11,7 +11,6 @@ title: <Your Name>
  
 My name is {{ site.name }}, and here are my portfolio links for the following classes:
 
-<a href="{{ "/projects/" | relative_url }}">MAE 3260</a>
 <a href="{{ "/assets/files/MAE3260_Final-Report.pdf" | relative_url }}" download>MAE 3260</a>
 
 
