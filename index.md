@@ -11,7 +11,7 @@ title: Allison Lou
  
 My name is {{ site.name }}, and here are my portfolio links for the following classes:
 
-<a href="{{ "/assets/files/MAE3260_Final-Report.pdf" | relative_url }}" download>MAE 3260</a>
+<a href="{{ "/MAE3260/" | relative_url }}">MAE 3260</a>
 
 <a href="{{ "/MAE4272/" | relative_url }}">MAE 4272</a>
 
