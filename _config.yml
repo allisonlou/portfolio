@@ -8,10 +8,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Allison Lou
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
+name                     : Allison Lou
 description              : Your Name - Projects and CV 
 baseurl                  : "/portfolio" # Set this to your repo name 
 url                      : "https://allisonlou.github.io" # Set this to your repo name 
